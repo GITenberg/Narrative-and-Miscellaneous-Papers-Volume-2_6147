@@ -1,5 +1,5 @@
 _repo: Narrative-and-Miscellaneous-Papers-Volume-2_6147
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'English essays'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: System of the heavens as revealed by Lord Rosse's telescopes -- Modern
   superstition -- Coleridge and opium-eating -- Temperance movement -- On war -- The
   last days of Immanuel Kant.
